@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Cze%C5%9B%C4%87%2C+jestem+Developerem!;Ucz%C4%99+si%C4%99+Reacta;Lubię+automatyzację)](https://git.io/typing-svg)
 <!--
 **Wiktor515/Wiktor515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
