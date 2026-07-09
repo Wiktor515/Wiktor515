@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5" style="font-family: 'Courier New', monospace; font-size: 20px; color: #007ACC; font-weight: bold;">
-    • AI IN BUSINESS • DATA ANALYSIS • CYBER SECURITY •
-  </marquee>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=50&lines=%E2%80%A2+AI+IN+BUSINESS+%E2%80%A2;%E2%80%A2+DATA+ANALYSIS+%E2%80%A2;%E2%80%A2+CYBER+SECURITY+%E2%80%A2" alt="Typing SVG" />
 </p>
 <!--
 **Wiktor515/Wiktor515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
